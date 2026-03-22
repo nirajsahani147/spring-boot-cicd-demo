@@ -1,4 +1,4 @@
-name: Docker Build -> Push -> Deploy
+puname: Docker Build -> Push -> Deploy
 
 on:
   push:
